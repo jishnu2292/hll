@@ -1,0 +1,427 @@
+body{
+	background-color: #fff;
+	font-family: 'Hind Madurai', sans-serif;
+}
+.logo-img {
+width: 160px;
+margin-top: 20px;
+}
+.logo{
+	margin-left: 5px;
+}
+#header{
+	height: 70px;
+	background-color: #fff;
+	border-bottom: 1px solid #ccc;
+	z-index: 1000;
+}
+.menu-header{
+	float: right;
+	margin-top: -25px;
+	margin-right: 5px;
+}
+ul{
+	list-style: none;
+}
+.header-list{
+	display: inline-block;
+
+}
+.discussion-header-tab{
+	padding: 6px 12px;
+	    border-radius: 3px;
+	    border: 1px solid #28bdc0;
+	    color: #fff;
+	    background-color: #28bdc0;
+	    font-size: 14px;
+	    font-weight: 700;
+	    text-decoration: none !important;
+}
+.login-header-tab{
+	padding: 6px 12px;
+	border-radius: 3px;
+	border: 1px solid;
+	margin: 0 5px;
+	    font-weight: 700;
+	color: #333;
+	    text-decoration: none !important;
+}
+.ask-header-tab{
+	padding: 6px 12px;
+	    border-radius: 3px;
+	    border: 1px solid #f9ab1e;
+	    color: #fff;
+	    background-color: #f9ab1e;
+	    font-size: 14px;
+	    font-weight: 700;
+	    text-decoration: none !important;
+}
+.lab-logo-img{
+	display: block;
+	width: 170px;
+	border-radius: 50%;
+}
+.lab-name{
+	font-size: 22px;
+	    word-wrap: normal;
+	    color: #333;
+	    cursor: pointer;
+	    text-decoration: none !important;
+}
+.hosp_sidebar-htype-profile, .lab-location{
+	font-size: 15px;
+	color: #333;
+
+}
+.clini_userview_profile_tests{
+	padding: 15px;
+	    padding-top: 0px;
+}
+.cilin-test-heading-auserprofile{
+	font-size: 18px;
+	font-weight: 600;
+	text-decoration: none !important;
+	color:#333;
+}
+
+.list-details-lab-ul{
+	font-size: 16px;
+	padding-left: 0px;
+	margin-top: 20px;
+}
+.left-side{
+	/*margin-left: 50px;*/
+}
+.li-side-lab{
+	margin-bottom: 10px;
+}
+.lab-general-details{
+	margin-top: 20px;
+	text-align: center;
+}
+.lab-list-details{
+	margin-left: 80px;
+}
+.li-side-lab-a{
+	color: #333;
+}
+.lab-banner-img{
+	width: 100%;
+}
+.details-section{
+/*	margin-top: 20px;
+	    background-color: #fff;
+	    border: 1px solid #dedede;*/
+	    border-left: 1px solid #dedede;
+	    border-right: 1px solid #dedede;
+	    border-bottom: 1px solid #dedede;
+}
+.about-us-details{
+	padding: 15px;
+	/*padding-top: 0px;*/
+}
+.lab-banner, .call-now-social-section{
+	background-color: #fff;
+	box-shadow: 0 0 2px rgba(255, 255, 255, .5);
+	border: 1px solid #d8d8d8;
+
+}
+.call-now-div{
+	padding-top: 20px;
+	    padding-bottom: 35px;
+}
+.call-now-button{
+	background-color: #28bdc0;
+	padding: 5px 60px;
+	float: right;
+	margin-top: -10px;
+	border: 1px solid #28bdc0;
+	font-size: 14px;
+	border-radius: 3px;
+	margin-right: 15px;
+	color: #fff !important;
+	text-decoration: none !important;
+}
+.banner-callnow-section{
+	box-shadow: 0 0 2px rgba(255, 255, 255, .5);
+	border: 1px solid #d8d8d8;
+}
+.lab-banner{
+	box-shadow: 0 0 2px rgba(255, 255, 255, .5);
+	border: 1px solid #d8d8d8;
+}
+.about-us-lab-head{
+	font-weight: 600;
+	font-size: 18px;
+	color:#333;
+	text-decoration: none !important;
+	cursor:pointer;
+}
+.lab-working-day{
+	font-weight: bold;
+	    font-size: 14px;
+	    margin-bottom: 5px;
+	    
+}
+.lab-working-time{
+	line-height: 1.5;
+	margin-bottom: 10px;
+}
+.timing-section, .facilities-section{
+	margin-left: 20px;
+}
+.lab-test-head-price{
+	float: right;
+	    margin-right: 0px;
+	    font-size: 15px;
+	    margin-top: -25px;
+}
+.lab-test-head-content{
+	font-size: 15px;
+}
+.lab-test-head{
+	border-bottom: 1px solid #bdbdbd;
+	margin-top: 20px;
+}
+.test-details-section{
+	border-bottom: 1px solid #bdbdbd;
+	margin-top: 40px;
+	padding-bottom: 15px;
+}
+.test-name{
+	float: left;
+	font-size: 14px;
+	margin-top: -25px;
+}
+.test-rate{
+	float: right;
+	font-size: 14px;
+	margin-top: -25px;
+}
+.view-all-link{
+	float: right;
+	color: #28bdc0;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 13px;
+}
+.center-side{
+	margin-bottom: 50px;
+}
+
+/*askquestion.html page*/
+
+.ask_question_both_div{
+	border: 1px solid #dedede;
+	margin-top: 100px;
+	padding: 20px;
+	text-align: center;
+	box-shadow: 2px 1px 21px 1px #dedede;
+}
+.ask_hindlabs_col{
+	border-right: 1px solid #dedede;
+}
+.askhindlabs-div{
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+.askmedpicky-div{
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+.ask_question_note{
+	font-size: 14px;
+	margin-bottom: 25px;
+}
+.question_both_askbutton{
+	font-size: 14px;
+	text-decoration: none !important;
+	padding: 10px 30px;
+	background-color: #28bdc0;
+	border-radius: 3px;
+	color: #fff;
+}
+.question_both_askbutton:hover{
+	color:#fff;
+}
+
+/*hospital profile -- hospital view*/
+.hops_profile_logo{
+	width: 115px;
+	height: 115px;
+	border-radius: 50%;
+}
+.hosp_profile_logo_div{
+	padding-top: 20px;
+}
+.hosp_name_location_div{
+	text-align: center;
+}
+.hosp_side_menu_img{
+	max-width: 11% !important;
+	margin-right: 10px;
+}
+.hosp_side_menu_item{
+	font-size: 16px;
+	    color: #333 !important;
+	    text-decoration: none !important;
+}
+.hospital_profile_sidebar{
+	top: 70px;
+	left: 0px;
+	bottom: 0px;
+	width: 250px;
+	border-right: 1px solid rgb(222, 222, 222);
+	box-shadow: 3px 3px 20px -1px rgb(222, 222, 222);
+	/*position: fixed;*/
+	/*overflow-y: scroll;*/
+	/*overflow: visible;*/
+}
+.hosp_sidebar-hname{
+	margin-top: 15px;
+	    /*font-size: 20px;*/
+	    color: #19ADB0 !important;
+	    font-weight: 600;
+	    margin-bottom: 0px;
+}
+.hosp_sidebar-hlocation{
+	margin-bottom: 0px;
+	    font-size: 15px;
+}
+.hosp_sidebar-htype{
+	font-size: 15px;
+}
+.hosp_sidebar_listitem{
+	padding: 10px 10px;
+	cursor:pointer;
+}
+.hosp_sidebar_listitem:hover{
+	background-color: #dedede;
+}
+.change-pic-link{
+	color: #28bdc0 !important;
+	text-decoration: underline;
+	margin-top: 5px;
+	float: right;
+	font-size: 14px;
+	margin-right: 15px;
+}
+.edit-clinic-profile{
+	float: right;
+	    text-decoration: none;
+	    padding: 4px 32px;
+	    background-color: #b3b3b3;
+	    color: #fff;
+	    font-size: 14px;
+	    border-radius: 3px;
+	    margin-top: -5px;
+}
+.clinic_abot_edit_div{
+	margin-bottom: 20px;
+}
+.lab-timimg-head{
+	font-size: 18px;
+	font-weight: 600;
+	text-decoration: none !important;
+	color:#333;
+}
+.clinic_details_para{
+	font-size: 15px;
+	    line-height: 1.6;
+}
+.cilin-test-heading-a{
+	font-size: 18px;
+	color: #333;
+	text-decoration: none !important;
+}
+.test-center-side{
+	padding: 15px;
+	border: 1px solid #dedede;
+	margin-top: 30px;
+	box-shadow: -1px -1px 23px 3px rgb(222, 222, 222);
+}
+.cilin-test-addmore-a{
+	float: right;
+	padding: 5px 19px;
+	color: #fff;
+	background-color: #abaaaa;
+	border-radius: 3px;
+	text-decoration: none !important;
+	cursor:pointer;
+}
+
+
+/*clinic our doctors page*/
+.clinic_doc_img{
+	border-radius: 50%;
+	    width: 120px;
+	    height: 120px;
+	    display: block;
+	    margin-top: 12px;
+}
+.clinic_doc_details_edit{
+	padding: 7px 34px;
+	background-color: #adabab;
+	color: #fff;
+	border-radius: 3px;
+	text-decoration: none !important;
+	cursor: pointer
+}
+.clini_doc_listing-div{
+	border-top: 1px solid #d0d0d0;
+	padding: 15px;
+	/*margin-bottom: 20px;*/
+}
+.clinic_doc_listin_qualification, .clinic_doc_listin_speciality{
+	font-size: 15px;
+}
+.clinic-our-doc-add-new-div{
+	padding: 15px;
+	    /*border-bottom: 1px solid #d0d0d0;*/
+	    padding-bottom: 30px;
+	    margin-top: 10px;
+}
+.clinic-our-doc-head{
+	font-size: 18px;
+	color: #333;
+	font-weight: 500;
+}
+.clinic-our-doc-add-link{
+	float: right;
+	    padding: 6px 13px;
+	    border-radius: 3px;
+	    color: #28bdc0;
+	    font-size: 14px;
+	    border: 1px solid;
+	    text-decoration: none !important;
+}
+/*medpicky video page*/
+.medpicky-videos{
+	width: 343px;
+	height: 250px;
+}
+.medical_video_info_div{
+	text-align: justify;
+	margin-top: 15px;
+}
+.medical_video_head{
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+	font-weight: 500;
+}
+.video-medpicky-div{
+	border: 1px solid #d0d0d0;
+	box-shadow: 0px 1px 13px 3px #d0d0d0;
+}
+.medical_video_head_div{
+	padding:10px;
+}
+.filter_medical_video_head{
+	font-size: 17px;
+	color: #333;
+	font-weight: 500;
+}
+.main-grid{
+	margin-bottom: 30px;
+}
